@@ -1,0 +1,11 @@
+/* Styling the custom icon */
+.custom_icon {
+  background: url("custom_icon_2.svg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: inherit;
+  width: inherit;
+  display: block;
+}
+
